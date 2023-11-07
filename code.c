@@ -1,6 +1,6 @@
 includ <stdio.h>
 
 int main{
-  printf("hi");
+  printf("noga");
   return 0;
 }
